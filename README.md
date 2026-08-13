@@ -24,7 +24,7 @@ My official course certificates are located in the main directory to verify my p
 ---
 
 ## 📚 Course Progression
-This professional certificate consists of 8 comprehensive modules:
+This professional certificate consists of 9 comprehensive courses:
 1. Foundations of Cybersecurity
 2. Play It Safe: Manage Security Risks
 3. Connect and Protect: Networks and Network Security
@@ -33,3 +33,4 @@ This professional certificate consists of 8 comprehensive modules:
 6. Sound the Alarm: Detection and Response
 7. Automate Cybersecurity Tasks with Python
 8. Put It to Work: Prepare for Cybersecurity Jobs
+9. Accelerate Your Job Search with AI
