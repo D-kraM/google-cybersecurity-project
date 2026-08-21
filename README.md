@@ -14,7 +14,7 @@ To showcase my practical skills in threat intelligence, network security, and in
 
 ## 📁 Repository Structure
 
-### [💻 Lab Activities](./lab-activities)
+### [💻 Lab Activities](./lab)
 This folder contains detailed incident reports, network traffic analyses, and compliance checklists. 
 * *Click the folder above to view my hands-on project files.*
 
