@@ -14,12 +14,23 @@ To showcase my practical skills in threat intelligence, network security, and in
 
 ## 📁 Repository Structure
 
-### [💻 Lab Activities](./lab)
-This folder contains detailed incident reports, network traffic analyses, and compliance checklists. 
-* *Click the folder above to view my hands-on project files.*
+### [Portfolio Activities](./coursera/portfolio)
+These are polished portfolio exemplars from the Google Cybersecurity Professional Certificate:
+* [Professional statement](./coursera/portfolio/1.1-professional-statement.md)
+* [Security audit](./coursera/portfolio/1.2-controls-and-compliance-checklist.md)
+* [NIST CSF incident response](./coursera/portfolio/1.3-dos-incident-report-nist-csf-analysis.md)
+* [Linux file permissions](./coursera/portfolio/linux/1.4-linux-file-permissions.md) *(content to be added)*
+* [SQL query filters](./coursera/portfolio/sql/1.5-sql-query-filters.md) *(content to be added)*
 
-### [📄 Certificates](./)
-My official course certificates are located in the main directory to verify my progression through the program.
+### [Course Activities](./coursera/activities)
+These are supporting hands-on activities completed during the certificate program:
+* [Network traffic analysis](./coursera/activities/1.3-network-traffic-analysis-incident-report.md)
+* [SYN flood incident report](./coursera/activities/1.4-syn-flood-incident-report.md)
+* [Brute-force incident report](./coursera/activities/1.5-brute-force-incident-report.md)
+* [Security risk assessment](./coursera/activities/1.6-security-risk-assessment-report.md)
+
+### [📄 Certificates](./coursera/certificates)
+My official course certificates verify my progression through the program.
 
 ---
 
